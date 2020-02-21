@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# make mint60:custom
+make mint60:custom:avrdude
